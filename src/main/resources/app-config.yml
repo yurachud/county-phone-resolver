@@ -1,0 +1,4 @@
+server:
+ registerDefaultExceptionMappers: true
+swagger:
+ resourcePackage: resolver.country
